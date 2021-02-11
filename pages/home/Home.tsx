@@ -4,6 +4,13 @@ const Home = (): JSX.Element => {
   return (
     <>
       <div>Home</div>
+      <div>Home</div>
+      <div>Home</div>
+      <div>Home</div>
+      <div>Home</div>
+      <div>Home</div>
+      <div>Home</div>
+      <div>Home</div>
     </>
   );
 };

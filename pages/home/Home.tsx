@@ -3,7 +3,9 @@ import React from 'react';
 const Home = (): JSX.Element => {
   return (
     <>
-      <div>yo</div>
+      <div>
+        <p>this is a new thing</p>
+      </div>
     </>
   );
 };

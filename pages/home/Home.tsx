@@ -5,6 +5,11 @@ const Home = (): JSX.Element => {
     <>
       <div>
         <p>this is a new thing</p>
+        <p>this is a new thing</p>
+        <p>this is a new thing</p>
+        <p>this is a new thing</p>
+        <p>this is a new thing</p>
+        <p>this is a new thing</p>
       </div>
     </>
   );
